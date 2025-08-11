@@ -1,0 +1,22 @@
+# Core dependencies
+streamlit>=1.28.0
+plotly>=5.17.0
+pandas>=2.1.0
+numpy>=1.24.0
+requests>=2.31.0
+
+# Optional dependencies for enhanced functionality
+pandasdmx>=1.9.0
+reportlab>=4.0.4
+
+# Additional dependencies for data processing and visualization
+scipy>=1.11.0
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# For mathematical computations and scientific computing
+sympy>=1.12
+matplotlib>=3.7.0
+
+# For improved performance and caching
+Pillow>=10.0.0
